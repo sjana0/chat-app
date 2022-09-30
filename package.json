@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sjana0/chat-app.git"
+  },
+  "author": "Soumyanil Jana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjana0/chat-app/issues"
+  },
+  "homepage": "https://github.com/sjana0/chat-app#readme"
+}
